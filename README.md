@@ -9,7 +9,7 @@
 
 1. Clone the repository:
     ```
-    $ git clone --
+    $ git clone https://github.com/Francescoes/pytorch_e2c.git
     ```
 2. Before installing the required dependencies, you may want to create a virtual environment and activate it:
     ```
